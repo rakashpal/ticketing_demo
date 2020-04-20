@@ -1,0 +1,36 @@
+/*
+Theme Name: _wordPress
+Text Domain: _wordPress
+Version: 1.2
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: 
+Author: Rakashpal singh
+Author URI: http://3.7.86.92/portfolio/
+Theme URI: 
+License:
+License URI:
+*/
+
+
+
+.bg-light {
+    
+    list-style: none;
+}
+input {
+    width: 25%;
+}
+label{
+    display: block;
+
+}
+input#rememberme {
+    width: 2%;
+}
+input#wp-submit {
+    width: 10%;
+}
+a {
+    margin: 0 15px;
+}
